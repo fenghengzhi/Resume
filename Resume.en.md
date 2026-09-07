@@ -41,7 +41,7 @@ Aug 2020 – Present | Singapore
 * Developed **AI Agent Skills**, integrating engineering tools and structured capabilities into agent-based workflows.
 * Worked with the **Figma API** for design-platform-related integration and automation scenarios.
 
-### Shanghai Xielv Information Technology Co., Ltd. / Ctrip
+### Shanghai Carrying Travel Information Technology Co., Ltd. / Ctrip
 
 **Frontend Engineer**
 Jul 2018 – May 2020 | Shanghai, China
