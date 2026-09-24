@@ -2,7 +2,8 @@
 
 **Senior Frontend Engineer | React • TypeScript • Vue • Node.js • Web Platform**
 
-Singapore | [Phone] | fenghengzhi@gmail.com | https://www.linkedin.com/in/%E6%81%92%E6%99%BA-%E5%86%AF-3717a4103/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BAn87p4uUQOag%2F%2FK10DS0qw%3D%3D | https://github.com/fenghengzhi
+Singapore | [Phone] | [fenghengzhi@gmail.com](mailto:fenghengzhi@gmail.com) | [LinkedIn](https://www.linkedin.com/in/%E6%81%92%E6%99%BA-%E5%86%AF-3717a4103/) | [GitHub](https://github.com/fenghengzhi)
+
 Currently based in Singapore | Employment Pass holder
 
 ## PROFESSIONAL SUMMARY
@@ -13,17 +14,20 @@ Strong hands-on experience with React, Vue, TypeScript, JavaScript, Node.js, mic
 
 ## TECHNICAL SKILLS
 
-**Frontend:** React, Vue, TypeScript, JavaScript, HTML, CSS, React Native, Mini Programs
-**Backend:** Node.js, REST APIs, Backend-for-Frontend services
-**Architecture & Engineering:** Micro-frontends, Monorepo, CI/CD, Frontend Architecture, Web Performance, Cross-platform Development
-**Platforms & Tools:** Chrome Extensions, Lynx, Figma API, MCP, AI Agent Skills
-**Other:** Browser-based Applications, Low-code Platforms, Payment Integration
+| Category | Skills |
+| --- | --- |
+| **Frontend** | React, Vue, TypeScript, JavaScript, HTML, CSS, React Native, Mini Programs |
+| **Backend** | Node.js, REST APIs, Backend-for-Frontend services |
+| **Architecture & Engineering** | Micro-frontends, Monorepo, CI/CD, Frontend Architecture, Web Performance, Cross-platform Development |
+| **Platforms & Tools** | Chrome Extensions, Lynx, Figma API, MCP, AI Agent Skills |
+| **Other** | Browser-based Applications, Low-code Platforms, Payment Integration |
 
 ## PROFESSIONAL EXPERIENCE
 
 ### ByteDance
 
 **Frontend / Software Engineer**
+
 Aug 2020 – Present | Singapore
 
 * Developed and maintained multiple frontend products and internal engineering platforms using **React, Vue, TypeScript, and JavaScript**, covering both consumer-facing and enterprise/internal use cases.
@@ -44,6 +48,7 @@ Aug 2020 – Present | Singapore
 ### Shanghai Carrying Travel Information Technology Co., Ltd. / Ctrip
 
 **Frontend Engineer**
+
 Jul 2018 – May 2020 | Shanghai, China
 
 * Developed and maintained mobile experiences for the **Ctrip mobile application's Attractions & Tickets business** using **React Native**.
@@ -55,6 +60,7 @@ Jul 2018 – May 2020 | Shanghai, China
 ### Shanghai Tankun Data Technology Co., Ltd.
 
 **Frontend Engineer**
+
 Jan 2018 – Jul 2018 | Shanghai, China
 
 * Developed and maintained the company's web applications and frontend interfaces.
@@ -66,6 +72,7 @@ Jan 2018 – Jul 2018 | Shanghai, China
 ### Shanghai Haiyizhi Information Technology Co., Ltd.
 
 **Frontend Developer**
+
 Oct 2017 – Jan 2018 | Shanghai, China
 
 * Developed web frontend applications for client projects in an outsourcing environment.
@@ -78,10 +85,10 @@ Oct 2017 – Jan 2018 | Shanghai, China
 ### Beihang University
 
 **Bachelor of Engineering in Electronic Information Engineering**
-Sep 2013 – Jul 2017
-Beijing, China
+
+Sep 2013 – Jul 2017 | Beijing, China
 
 ## LANGUAGES
 
-**Chinese:** Native
-**English:** Professional working proficiency in written communication; comfortable collaborating with international teams through technical documentation, messaging, code reviews, and day-to-day engineering discussions.
+* **Chinese:** Native
+* **English:** Professional working proficiency in written communication; comfortable collaborating with international teams through technical documentation, messaging, code reviews, and day-to-day engineering discussions.

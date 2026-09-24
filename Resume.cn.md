@@ -2,7 +2,7 @@
 
 **资深前端工程师 | React • TypeScript • Vue • Node.js • Web 平台**
 
-新加坡 | [电话] | fenghengzhi@gmail.com | https://www.linkedin.com/in/%E6%81%92%E6%99%BA-%E5%86%AF-3717a4103/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BAn87p4uUQOag%2F%2FK10DS0qw%3D%3D | https://github.com/fenghengzhi
+新加坡 | [电话] | [fenghengzhi@gmail.com](mailto:fenghengzhi@gmail.com) | [LinkedIn](https://www.linkedin.com/in/%E6%81%92%E6%99%BA-%E5%86%AF-3717a4103/) | [GitHub](https://github.com/fenghengzhi)
 
 ## 个人简介
 
@@ -12,11 +12,13 @@
 
 ## 技术能力
 
-**前端：** React、Vue、TypeScript、JavaScript、HTML、CSS、React Native、小程序  
-**后端：** Node.js、REST API、BFF（Backend-for-Frontend）服务  
-**架构与工程：** 微前端、Monorepo、CI/CD、前端架构、Web 性能优化、跨平台开发  
-**平台与工具：** Chrome 扩展、Lynx、Figma API、MCP、AI Agent Skills  
-**其他：** 浏览器端应用、低代码平台、支付集成
+| 类别 | 技术能力 |
+| --- | --- |
+| **前端** | React、Vue、TypeScript、JavaScript、HTML、CSS、React Native、小程序 |
+| **后端** | Node.js、REST API、BFF（Backend-for-Frontend）服务 |
+| **架构与工程** | 微前端、Monorepo、CI/CD、前端架构、Web 性能优化、跨平台开发 |
+| **平台与工具** | Chrome 扩展、Lynx、Figma API、MCP、AI Agent Skills |
+| **其他** | 浏览器端应用、低代码平台、支付集成 |
 
 ## 工作经历
 
