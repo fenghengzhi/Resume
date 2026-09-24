@@ -4,7 +4,7 @@
 
 Singapore | [Phone] | [fenghengzhi@gmail.com](mailto:fenghengzhi@gmail.com) | [LinkedIn](https://www.linkedin.com/in/%E6%81%92%E6%99%BA-%E5%86%AF-3717a4103/) | [GitHub](https://github.com/fenghengzhi)
 
-Currently based in Singapore | Employment Pass holder
+**Work authorization:** Currently holds a Singapore Employment Pass (EP); requires EP sponsorship from a new employer.
 
 ## PROFESSIONAL SUMMARY
 
