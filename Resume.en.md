@@ -58,6 +58,7 @@ Jul 2018 – May 2020 | Shanghai, China
 Jan 2018 – Jul 2018 | Shanghai, China
 
 * Developed and maintained the company's web applications and frontend interfaces.
+* Integrated **Google Maps** into web applications using **Leaflet**.
 * Developed **WeChat Mini Program** functionality for business applications.
 * Integrated **Tencent/WeChat Pay** into Mini Program workflows, supporting online payment scenarios.
 * Worked closely with backend developers to integrate APIs and deliver end-to-end product functionality.
@@ -69,6 +70,7 @@ Oct 2017 – Jan 2018 | Shanghai, China
 
 * Developed web frontend applications for client projects in an outsourcing environment.
 * Implemented interactive web pages and business functionality primarily using **JavaScript and jQuery**.
+* Developed web-based data visualizations using **ECharts**.
 * Collaborated with designers and backend developers to deliver customer-facing web projects.
 
 ## EDUCATION
