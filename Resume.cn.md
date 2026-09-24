@@ -2,7 +2,7 @@
 
 **资深前端工程师 | React • TypeScript • Vue • Node.js • Web 平台**
 
-新加坡 | [电话] | [fenghengzhi@gmail.com](mailto:fenghengzhi@gmail.com) | [LinkedIn](https://www.linkedin.com/in/%E6%81%92%E6%99%BA-%E5%86%AF-3717a4103/) | [GitHub](https://github.com/fenghengzhi)
+新加坡 | +86 18810760290 | [fenghengzhi@gmail.com](mailto:fenghengzhi@gmail.com) | [LinkedIn](https://www.linkedin.com/in/%E6%81%92%E6%99%BA-%E5%86%AF-3717a4103/) | [GitHub](https://github.com/fenghengzhi)
 
 ## 个人简介
 
